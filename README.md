@@ -14,3 +14,5 @@ some changes
 6. файлы override.tf и override.tf.json в terraform/ и всех ее поддиректориях
 7. файлы которые заканчиваются на _override.tf и _override.tf.json в terraform/ и всех ее поддиректориях
 8. файлы .terraformrc и terraform.rc  terraform/ и всех ее поддиректориях
+
+New line
